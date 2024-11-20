@@ -52,7 +52,7 @@ const About = () => {
             <img
               src={about1}
               alt="about1"
-              className="rounded-lg shadow-md w-full object-cover h-72 -ml-1 hover:scale-105 "
+              className="rounded-lg shadow-md w-full object-cover h-72 -ml-1 "
             />
           </div>
 
@@ -95,7 +95,7 @@ const About = () => {
             <img
               src = {about2}
               alt = 'about2'
-              className="rounded-lg shadow-md w-full object-cover h-72 ml-1 hover:scale-105"
+              className="rounded-lg shadow-md w-full object-cover h-72 ml-1 "
             />
           </div>
         </div>
@@ -106,7 +106,7 @@ const About = () => {
             <img
               src={about3}
               alt="about3"
-              className="rounded-lg shadow-md w-full object-cover h-72 -ml-1 hover:scale-105 "
+              className="rounded-lg shadow-md w-full object-cover h-72 -ml-1 "
             />
           </div>
           {/* Text Section */}
@@ -144,7 +144,7 @@ const About = () => {
             <img
               src={about4}
               alt="about4"
-              className="rounded-lg shadow-md w-full object-cover h-72 ml-1 hover:scale-105"
+              className="rounded-lg shadow-md w-full object-cover h-72 ml-1 "
             />
           </div>
         </div>
@@ -155,7 +155,7 @@ const About = () => {
             <img
               src={about5}
               alt="about5"
-              className="rounded-lg shadow-md w-full object-cover h-72 -ml-1 hover:scale-105"
+              className="rounded-lg shadow-md w-full object-cover h-72 -ml-1 "
             />
           </div>
           {/* Text Section */}
@@ -192,7 +192,7 @@ const About = () => {
             <img
               src={about6}
               alt="about6"
-              className="rounded-lg shadow-md w-full object-cover h-72 ml-1 hover:scale-105"
+              className="rounded-lg shadow-md w-full object-cover h-72 ml-1 "
             />
           </div>
         </div>
@@ -203,7 +203,7 @@ const About = () => {
             <img
               src={about7}
               alt="about7"
-              className="rounded-lg shadow-md w-full object-cover h-72 -ml-1 hover:scale-105"
+              className="rounded-lg shadow-md w-full object-cover h-72 -ml-1 "
             />
           </div>
           {/* Text Section */}
@@ -240,7 +240,7 @@ const About = () => {
             <img
               src={about8}
               alt="about8"
-              className="rounded-lg shadow-md w-full object-cover h-72 ml-1 hover:scale-105"
+              className="rounded-lg shadow-md w-full object-cover h-72 ml-1 "
             />
           </div>
         </div>
@@ -252,7 +252,7 @@ const About = () => {
             <img
               src={about9}
               alt="about9"
-              className="rounded-lg shadow-md w-full object-cover h-72 -ml-1 hover:scale-105"
+              className="rounded-lg shadow-md w-full object-cover h-72 -ml-1 "
             />
           </div>
           {/* Text Section */}
@@ -289,7 +289,7 @@ const About = () => {
             <img
               src={about10}
               alt="about10"
-              className="rounded-lg shadow-md w-full object-cover h-72 ml-1 hover:scale-105 "
+              className="rounded-lg shadow-md w-full object-cover h-72 ml-1 "
             />
           </div>
         </div>
