@@ -21,9 +21,9 @@ const Home = () => {
     
 
 
-      {/* Main Content Section */}
+      
 <div className="flex max-w-7xl mx-auto mt-16 px-16 justify-between items-center">
-  {/* Image Section */}
+
   <div className="w-1/2">
     <img 
       src={B15} 
@@ -32,7 +32,7 @@ const Home = () => {
     />
   </div>
   
-  {/* Text Section */}
+  
   <div className="w-1/2 pl-16">
     <div className="text-2xl gap-2 mt-10 font-bold mb-6 text-left flex underline underline-offset-8 decoration-lime-600">
       Transform Your<img className="size-6 flex mt-2 " src = {Heart} alt="Heart" /> Health with
@@ -47,9 +47,9 @@ const Home = () => {
       plans and ongoing support. Start your transformation today and experience the power of personalized nutrition coaching.
     </div>
     
-    {/* Buttons */}
+    
     <div className="flex space-x-8">
-      <button className="bg-lime-500 text-black px-10 py-3 rounded-md hover:bg-lime-700 text-m">
+      <button className="bg-lime-500 text-black px-10 py-3 rounded-md hover:bg-lime-600 text-m">
         Get Starter Today
       </button>
       <button className="bg-yellow-500 text-black px-10 py-3 rounded-md hover:bg-yellow-700 text-m">
@@ -58,6 +58,9 @@ const Home = () => {
     </div>
   </div>
 </div>
+
+
+
 
 <section className="max-w-6xl mx-auto px-16 mt-28 bg-lime-50">
   <h2 className="flex justify-center items-center text-4xl font-bold mb-4 p-6">Features</h2>

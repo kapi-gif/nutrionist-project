@@ -33,7 +33,7 @@ function Blog() {
         </div>
 
         {/* Bottom Navigation Bar */}
-        <nav className="bg-teal-950 text-white h-[70px] rounded-md mt-4">
+        <nav className="bg-green-950 text-white h-[70px] rounded-md mt-4">
           <ul className="flex justify-between items-center px-4 h-full">
             <li className="hover:bg-gray-600 px-4 py-2 rounded">All</li>
             <li className="hover:bg-gray-600 px-4 py-2 rounded">Weight Loss Tips</li>
@@ -69,7 +69,7 @@ function Blog() {
       changes.
     </p>
     <Link to="/blog/weight-loss-strategies" className="ml-4">
-      <button className="px-6 py-2 bg-green-300 rounded">Read More</button>
+      <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
     </Link>
   </div>
 </div>
@@ -94,7 +94,7 @@ function Blog() {
       portion sizes and avoiding overeating.
     </p>
     <Link to="/blog/portion-control" className="ml-4">
-      <button className="px-6 py-2 bg-green-300 rounded">Read More</button>
+      <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
     </Link>
   </div>
 </div>
@@ -133,7 +133,7 @@ function Blog() {
           transitioning to a plant-based lifestyle.
         </p>
         <Link to="/blog/plant-based-diet" className="ml-4">
-          <button className="px-6 py-2 bg-green-300 rounded">Read More</button>
+          <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
         </Link>
       </div>
     </div>
@@ -161,7 +161,7 @@ function Blog() {
           how to incorporate them into your meals.
         </p>
         <Link to="/blog/macronutrients" className="ml-4">
-          <button className="px-6 py-2 bg-green-300 rounded">Read More</button>
+          <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
         </Link>
       </div>
     </div>
@@ -195,7 +195,7 @@ function Blog() {
           maximize your results.
         </p>
         <Link to="/blog/cardio-vs-strength" className="ml-4">
-          <button className="px-6 py-2 bg-green-300 rounded">Read More</button>
+          <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
         </Link>
       </div>
     </div>
@@ -221,7 +221,7 @@ function Blog() {
           working out at home.
         </p>
         <Link to="/blog/home-workout" className="ml-4">
-          <button className="px-6 py-2 bg-green-300 rounded">Read More</button>
+          <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
         </Link>
       </div>
     </div>
@@ -252,7 +252,7 @@ function Blog() {
           focused on your goals.
         </p>
         <Link to="/blog/fitness-motivation" className="ml-4">
-          <button className="px-6 py-2 bg-green-300 rounded">Read More</button>
+          <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
         </Link>
       </div>
     </div>
@@ -276,7 +276,7 @@ function Blog() {
           resilient mindset for success.
         </p>
         <Link to="/blog/growth-mindset" className="ml-4">
-          <button className="px-6 py-2 bg-green-300 rounded">Read More</button>
+          <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
         </Link>
       </div>
     </div>
@@ -307,7 +307,7 @@ function Blog() {
           making meal prep easier.
         </p>
         <Link to="/blog/meal-planning" className="ml-4">
-          <button className="px-6 py-2 bg-green-300 rounded">Read More</button>
+          <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
         </Link>
       </div>
     </div>
@@ -331,7 +331,7 @@ function Blog() {
           goals and save you time.
         </p>
         <Link to="/blog/healthy-recipes" className="ml-4">
-          <button className="px-6 py-2 bg-green-300 rounded">Read More</button>
+          <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
         </Link>
       </div>
     </div>
