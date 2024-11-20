@@ -9,14 +9,14 @@ const TeamMembers2 = () => {
   return (
     <>
 
-<div className="bg-lime-50 m-[50px] h-[450px] p-6 flex flex-col justify-between">
+<div className="bg-lime-50 m-[50px] h-[440px] p-6 flex flex-col justify-between ">
         <div> 
           <img className='size-10 ml-auto mr-auto mt-20' src = {NutritionIcon} alt="Nutrition Icon" />
           <h1 className="text-2xl font-bold mb-4 flex justify-center items-center mt-11">Meet Our Team of Experts</h1>
           <p className='ml-14 mr-10 '>Our team of Nutritionistn is composed of highly skilled professionals who are passionate about helping you achieve your health and wellness goals. With a diverse range of expertise in nutrition, coaching, and support, our team is dedicated to providing you with the guidance and personalized care you need. Get to know the experts behind our success and discover how they can make a positive impact an your journey to better health. </p>
         </div>
         <div className='bg-green-950 h-16 mt-14 -ml-6 -mr-6'>
-            <ul className=' flex justify-between text-sm p-3 ml-10 mr-10 text-white'>
+            <ul className=' flex justify-between text-sm p-3 ml-10 mr-10 text-white text-xs'>
             <li className='hover:bg-gray-600  px-2 py-2 rounded'>Management Team</li>
             <li className='hover:bg-gray-600  px-2 py-2 rounded'>Nutrionist and Dietitians</li>
             <li className='hover:bg-gray-600  px-2 py-2 rounded'>Customer Support</li>

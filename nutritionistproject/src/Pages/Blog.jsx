@@ -34,7 +34,7 @@ function Blog() {
 
         {/* Bottom Navigation Bar */}
         <nav className="bg-green-950 text-white h-[70px] rounded-md mt-4">
-          <ul className="flex justify-between items-center px-4 h-full">
+          <ul className="flex justify-between items-center px-4 h-full text-xs">
             <li className="hover:bg-gray-600 px-4 py-2 rounded">All</li>
             <li className="hover:bg-gray-600 px-4 py-2 rounded">Weight Loss Tips</li>
             <li className="hover:bg-gray-600 px-4 py-2 rounded">Healthy Eating</li>
