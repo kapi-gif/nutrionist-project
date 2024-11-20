@@ -17,40 +17,7 @@ import NutritionIcon from "../Assets/Nutrition Icon.png"
 function Blog() {
   return (
     <>
-      <div className="bg-green-50">
-        {/* Navbar Section */}
-        <nav className="bg-teal-950 text-white py-4">
-          <h3 className="flex justify-center items-center m-1.5 ml-[13px]">
-            Join Our Personalized Nutrition Demo For Free
-          </h3>
-          <hr className="my-2 border-t border-gray-400" />
-
-          <ul className="flex justify-between items-center max-w-7xl mx-auto px-6">
-            {/* Logo */}
-            <li className="logo text-2xl font-semibold mr-auto ml-[20px]">Nutritionist</li>
-
-            {/* Navigation Links */}
-            <div className="flex space-x-6">
-              <li className="hover:bg-gray-600 px-4 py-2 rounded">
-                <Link to="/" className="text-white">Home</Link>
-              </li>
-              <li className="hover:bg-gray-600 px-4 py-2 rounded">About</li>
-              <li className="hover:bg-gray-600 px-4 py-2 rounded">Team</li>
-              <li className="hover:bg-gray-600 px-4 py-2 rounded">Process</li>
-              <li className="hover:bg-gray-600 px-4 py-2 rounded">Pricing</li>
-              <li className="hover:bg-gray-600 px-4 py-2 rounded">Blog</li>
-            </div>
-
-            {/* Contact Us Button */}
-            <Link to="/contact">
-              <button className="bg-yellow-200 text-black px-6 py-3 rounded-md hover:bg-blue-600">
-                Contact Us
-              </button>
-            </Link>
-          </ul>
-        </nav>
-      </div>
-
+      
       {/* Our Blogs Section */}
       <div className="bg-lime-50 m-[50px] h-[400px] p-6 flex flex-col justify-between">
         <div>
@@ -82,7 +49,7 @@ function Blog() {
   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
     
    {/* First Blog */}
-<div className="relative max-w-[360px] mx-auto p-4 bg-lime-50 rounded-md shadow-md mt-[15px]">
+<div className="relative max-w-[360px] mx-auto p-4 bg-lime-50 rounded-md shadow-md mt-8">
   <h3 className="text-lg font-semibold mb-2">Weight Loss Tips</h3>
   <div className="relative overflow-hidden">
     <img
@@ -108,7 +75,7 @@ function Blog() {
 </div>
 
 {/* Second Blog */}
-<div className="relative max-w-[360px] mx-auto p-4 bg-lime-50 rounded-md shadow-md mt-[15]">
+<div className="relative max-w-[360px] mx-auto p-4 bg-lime-50 rounded-md shadow-md mt-8">
   <h3 className="text-lg font-semibold mb-2">Weight Loss Tips</h3>
   <div className="relative overflow-hidden">
     <img
