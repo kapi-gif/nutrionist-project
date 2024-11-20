@@ -49,7 +49,7 @@ function Blog() {
   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
     
   {/* First Blog */}
-<div className="relative max-w-[360px] mx-auto p-4 bg-lime-50 rounded-md shadow-md mt-[15px]">
+<div className="relative max-w-[360px] mx-auto p-4 bg-lime-50 rounded-md shadow-md mt-[30px]">
   <h3 className="text-lg font-semibold mb-2">Weight Loss Tips</h3>
   <div className="relative overflow-hidden">
     <img
@@ -75,7 +75,7 @@ function Blog() {
 </div>
 
 {/* Second Blog */}
-<div className="relative max-w-[360px] mx-auto p-4 bg-lime-50 rounded-md shadow-md mt-[15px]">
+<div className="relative max-w-[360px] mx-auto p-4 bg-lime-50 rounded-md shadow-md mt-[30px]">
   <h3 className="text-lg font-semibold mb-2">Weight Loss Tips</h3>
   <div className="relative overflow-hidden">
     <img
