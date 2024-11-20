@@ -69,7 +69,7 @@ function Blog() {
       changes.
     </p>
     <Link to="/blog/weight-loss-strategies" className="ml-4">
-      <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
+      <button className="px-3 py-2 bg-lime-500 rounded">Read More</button>
     </Link>
   </div>
 </div>
