@@ -306,7 +306,7 @@ function Blog() {
           meals throughout the week. Get tips for {"\n"}
           making meal prep easier.
         </p>
-        <Link to="/blog/meal-planning" className="ml-4">
+        <Link to="/blog/meal-planning" className="ml-6">
           <button className="px-6 py-2 bg-lime-500 rounded">Read More</button>
         </Link>
       </div>
